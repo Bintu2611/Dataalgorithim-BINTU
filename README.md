@@ -266,4 +266,4 @@ The project also demonstrates file handling, exception handling, reusable functi
 
 
 # Dataalgorithim-BINTU
-BINTU HAJA JANNEH 905005566
+BINTU HAJA JANNEH 905005566 BSEM2101
